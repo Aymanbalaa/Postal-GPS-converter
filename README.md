@@ -13,5 +13,5 @@ Postal code is then used to find neighborhood name from text file that has the c
   **Postal codes to Neighborhood Name**
   https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_H
 
-  ** Python Library **
+  **Python Library**
   https://geopy.readthedocs.io/en/stable/
