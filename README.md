@@ -10,8 +10,8 @@ Postal code is then used to find neighborhood name from text file that has the c
   **Testing :**
   https://worldpostalcode.com/canada/quebec/montreal
 
-  **Postal codes to Neighborhood Name**
+  **Postal codes to Neighborhood Name :**
   https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_H
 
-  **Python Library**
+  **Python Library :**
   https://geopy.readthedocs.io/en/stable/
